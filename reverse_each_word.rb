@@ -6,3 +6,6 @@ def reverse_each_word(string)
   end
   return string1.chop
 end
+
+def reverse_each_word(string)
+  
